@@ -69,18 +69,12 @@
       "groups": "Single",
       "categoryId": "3",
       "content": " Write an essay about your life using known grammar forms and/or target grammar forms. If you use unfamiliar vocabulary, provide Japanese translations (ask your JTE for help). Choose 5-10 words and change them into blanks.  The ALT reads his/her essay 2-3 times. The students listen and try to fill in the blanks by catching the sound. After the ALT has finished reading, the JTE reads the essay one more time, pausing before each blank. The class says the correct answer in unison. The ALT writes the correct spelling on the board."
-          If you use unfamiliar vocabulary, provide Japanese translations (ask your JTE for help).
   },{
       "id": "10",
-      "name": `3 Cats`,
+      "name": "3 Cats",
       "duration": "10 min",
       "groups": "Single",
       "categoryId": "4",
-      "content": `
-      Distribute the word search worksheet and explain that 5 minutes (or any set time period) will be given for students to find as many of each word as possible.
-      When those 5 minutes have elapsed, students should be instructed to tally how many of each word they were able to find in the tally box on the right side of the sheet.
-      Instruct the students how to construct the sentence: "I have 3 cats." Examples are listed immediately below the word search on the sheet.
-      Students write 7 sentences, reporting how many of each word they found. The sentence format and space is provided at the bottom of the worksheet.
-      Have students demonstrate part of their work by asking students individually, "How many dogs/cats/etc do you have?" To which the student will respond with the sentence they constructed.`
+      "content": "Distribute the word search worksheet and explain that 5 minutes (or any set time period) will be given for students to find as many of each word as possible. When those 5 minutes have elapsed, students should be instructed to tally how many of each word they were able to find in the tally box on the right side of the sheet. Instruct the students how to construct the sentence: I have 3 cats. Examples are listed immediately below the word search on the sheet. Students write 7 sentences, reporting how many of each word they found. The sentence format and space is provided at the bottom of the worksheet. Have students demonstrate part of their work by asking students individually, How many dogs/cats/etc do you have? To which the student will respond with the sentence they constructed."
   }]
 }
