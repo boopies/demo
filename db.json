@@ -19,58 +19,42 @@
       "duration": "10 min",
       "groups": "Whole Class",
       "categoryId": "1",
-      "content": " Prepare a list of minimal-pairs phonics. \n\rHave the students stand up. \n\r" +
-              " Assign a phonic sound to either a punch or a kick. \n\r Say a minimal pair wo" +
-              "rd on your list, students then punch or kick. \n\r If they do the wrong action" +
-              ", they sit down. \n\r play until there is a winner. "
+      "content": " Prepare a list of minimal-pairs phonics. \n\rHave the students stand up. \n\r Assign a phonic sound to either a punch or a kick. \n\r Say a minimal pair word on your list, students then punch or kick. \n\r If they do the wrong action, they sit down. \n\r play until there is a winner. "
   }, {
       "id": "2",
       "name": "Shadowing",
       "duration": "15 min",
       "groups": "Pairs",
       "categoryId": "2",
-      "content": " Teacher and a volunteer will read prepared role plays for the students to lis" +
-              "ten to. \n\r Disccuss the role plays, and then have the students shadow after " +
-              "you and the volunteer."
+      "content": " Teacher and a volunteer will read prepared role plays for the students to listen to. \n\r Disccuss the role plays, and then have the students shadow after you and the volunteer."
   }, {
       "id": "3",
       "name": "Find Your Match",
       "duration": "15 min",
       "groups": "Pairs",
       "categoryId": "3",
-      "content": " Students are given part of a role play. \n\r They have to walk around the cla" +
-              "ssroom saying their role play to see if they can find their other half. \n\r W" +
-              "hen they have a match, they perform it for the teacher, and are given a new ha" +
-              "lf of a role play.\n\r  How many role plays can they finish?"
+      "content": " Students are given part of a role play. \n\r They have to walk around the classroom saying their role play to see if they can find their other half. \n\r When they have a match, they perform it for the teacher, and are given a new half of a role play.\n\r  How many role plays can they finish?"
   }, {
       "id": "5",
       "name": " Criss Cross ",
       "duration": "15 min",
       "groups": "Whole Class",
       "categoryId": "5",
-      "content": "'Students stand up. \n\r Teachers ask questions based on the grammar point lea" +
-              "rnt. If a student answers the question. they get to choose how to sit down."
+      "content": "'Students stand up. \n\r Teachers ask questions based on the grammar point learnt. If a student answers the question. they get to choose how to sit down."
   }, {
       "id": "6",
-      "name": `The "Who Am I?" Guessing Game`,
+      "name": "The Who Am I? Guessing Game,
       "duration": "15 min",
       "groups": "Whole Class",
       "categoryId": "3",
-      "content": `Type up a list of between 15-20 names of current famous people, e.g.: 
-      "Madonna", "Tom Cruise", etc. and cut into slips of paper approx. 1 1/2 " by 3". 
-      Pin a slip of paper onto each student's back. Students circulate and ask each other 
-      Yes or No questions about the person's name pinned to their backs until they guess 
-      who they "are". Elizabeth, Vancouver, BC, Canada`
+      "content": "Type up a list of between 15-20 names of current famous people, e.g. Madonna, Tom Cruise, etc. and cut into slips of paper approx. 1 1/2 by 3 and Pin a slip of paper onto each students back. Students circulate and ask each other Yes or No questions about the persons name pinned to their backs until they guess who they are. Elizabeth, Vancouver, BC, Canada"
   }, {
       "id": "7",
-      "name": `60 Second Quiz`,
+      "name": "60 Second Quiz",
       "duration": "5 min",
       "groups": "Pairs",
       "categoryId": "1",
-      "content": `Students write 25 words and their translations on a piece of paper, give them time to do this
-                  When time is up, one student will read a their native language word to the students and the
-                  give them the work in English. The student that give the translation to the most words in 60 seconds
-                  is the winner.`
+      "content": "Students write 25 words and their translations on a piece of paper, give them time to do this When time is up, one student will read a their native language word to the students and the give them the work in English. The student that give the translation to the most words in 60 seconds is the winner give them the work in English. The student that give the translation to the most words in 60 seconds is the winner give them the work in English. The student that give the translation to the most words in 60 seconds is the winner."
   }, {
       "id": "8",
       "name": `Karuta`,
