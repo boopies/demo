@@ -1,4 +1,10 @@
-{
+{"categories": [ 
+      {"id": "1", "name": "Warm-Up"}, 
+      {"id": "2", "name": "Presentation"}, 
+      {"id": "3", "name": "Practice"}, 
+      {"id": "4", "name": "Performance"}, 
+      {"id": "5", "name": "Cool-Down"}
+  ],
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
