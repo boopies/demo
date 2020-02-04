@@ -43,7 +43,7 @@
       "content": "'Students stand up. \n\r Teachers ask questions based on the grammar point learnt. If a student answers the question. they get to choose how to sit down."
   }, {
       "id": "6",
-      "name": "The Who Am I? Guessing Game,
+      "name": "The Who Am I? Guessing Game",
       "duration": "15 min",
       "groups": "Whole Class",
       "categoryId": "3",
@@ -57,28 +57,19 @@
       "content": "Students write 25 words and their translations on a piece of paper, give them time to do this When time is up, one student will read a their native language word to the students and the give them the work in English. The student that give the translation to the most words in 60 seconds is the winner give them the work in English. The student that give the translation to the most words in 60 seconds is the winner give them the work in English. The student that give the translation to the most words in 60 seconds is the winner."
   }, {
       "id": "8",
-      "name": `Karuta`,
+      "name":"`Karuta",
       "duration": "15 min",
       "groups": "Groups",
       "categoryId": "3",
-      "content": `have a lst of cards with words that sudents are learning. Students place it face up between them in the groups.
-                  The teacher reads the words, and the student have to find that word and slap it. the first student to slap the card is the gets the card.
-                  the winner is the student with the most cards at the end of the day.`
+      "content": "have a lst of cards with words that sudents are learning. Students place it face up between them in the groups. The teacher reads the words, and the student have to find that word and slap it. the first student to slap the card is the gets the card. the winner is the student with the most cards at the end of the day."
   }, {
       "id": "9",
-      "name": `ALT's Day`,
+      "name": "ALTs Day",
       "duration": "10 min",
       "groups": "Single",
       "categoryId": "3",
-      "content": `
-          Write an essay about your life using known grammar forms and/or target grammar forms.
+      "content": " Write an essay about your life using known grammar forms and/or target grammar forms. If you use unfamiliar vocabulary, provide Japanese translations (ask your JTE for help). Choose 5-10 words and change them into blanks.  The ALT reads his/her essay 2-3 times. The students listen and try to fill in the blanks by catching the sound. After the ALT has finished reading, the JTE reads the essay one more time, pausing before each blank. The class says the correct answer in unison. The ALT writes the correct spelling on the board."
           If you use unfamiliar vocabulary, provide Japanese translations (ask your JTE for help).
-          Choose 5-10 words and change them into blanks.
-          The ALT reads his/her essay 2-3 times.
-          The students listen and try to fill in the blanks by catching the sound.
-          After the ALT has finished reading, the JTE reads the essay one more time, pausing before each blank.
-          The class says the correct answer in unison.
-          The ALT writes the correct spelling on the board.`
   },{
       "id": "10",
       "name": `3 Cats`,
