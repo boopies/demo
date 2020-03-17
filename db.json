@@ -65,7 +65,7 @@
     "priority": "5",
     "due_date": "2020/03/10",
     "content": "Work on capstone final"
-},
+}
 ],
   "reflection" :[
       {
@@ -112,6 +112,6 @@
         "rating": "5",
         "comment": "I felt great through this first session",
         "date": "2020/03/05"
-    },
+    }
   ]
 }
