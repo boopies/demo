@@ -1,117 +1,129 @@
-{"users": [ 
-      {"id": "1", "name": "Teguh Nguyen"}, 
-      {"id": "2", "name": "John Smith"}, 
-      {"id": "3", "name": "Sarah Stone"}, 
-      {"id": "4", "name": "Peter Jones"}, 
-      {"id": "5", "name": "Lily Potter"}
-  ],
-  "activities" : [      
-     {
-      "id": "1",
-      "user_id": "1",
-      "name": "Capstone requirements",
-      "duration": "60",
-      "deep_work": true,
-      "priority": "2",
-      "due_date": "2020/03/01",
-      "content": "Work on Final Capstone"
-  },
-  {
-    "id": "2",
-    "user_id": "1",
-    "name": "Capstone User stories",
-    "duration": "90",
-    "deep_work": true,
-    "priority": "5",
-    "due_date": "2020/03/02",
-    "content": "Work on capstone final"
-},
 {
-    "id": "3",
-    "user_id": "1",
-    "name": "Capstone Wireframing your app",
-    "duration": "180",
-    "deep_work": true,
-    "priority": "5",
-    "due_date": "2020/03/04",
-    "content": "Work on capstone final"
-},
-{
-    "id": "4",
-    "user_id": "1",
-    "name": "Capstone Build your static client",
-    "duration": "180",
-    "deep_work": true,
-    "priority": "5",
-    "due_date": "2020/03/06",
-    "content": "Work on capstone final"
-},
-{
-    "id": "5",
-    "user_id": "1",
-    "name": "Capstone Implement your MVP",
-    "duration": "180",
-    "deep_work": true,
-    "priority": "5",
-    "due_date": "2020/03/10",
-    "content": "Work on capstone final"
-},
-{
-    "id": "5",
-    "user_id": "1",
-    "name": "Capstone Implement your MVP",
-    "duration": "180",
-    "deep_work": true,
-    "priority": "5",
-    "due_date": "2020/03/10",
-    "content": "Work on capstone final"
-}
-],
-  "reflection" :[
-      {
-          "id": "1",
-          "user_id": "1",
-          "activity_id": "1",
-          "completed": "Yes",
-          "rating": "5",
-          "comment": "I felt great through this first session. It was tough.",
-          "date": "2020/03/01"
-      },
-      {
-        "id": "2",
-        "user_id": "1",
-        "activity_id": "2",
-        "completed": "No",
-        "rating": "2",
-        "comment": "Had so many distractions, will have to adjsut for next time.",
-        "date": "2020/03/02"
-    },
-    {
-        "id": "3",
-        "user_id": "1",
-        "activity_id": "2",
-        "completed": "Yes",
-        "rating": "2",
-        "comment": "Finsihed the work but it took a lot of time to get through. I got bored.",
-        "date": "2020/03/03"
-    },
-    {
-        "id": "4",
-        "user_id": "1",
-        "activity_id": "3",
-        "completed": "No",
-        "rating": "4",
-        "comment": "Didn't finish the session because of emergancy. But I managed to get a lot done.",
-        "date": "2020/03/04"
-    },
-    {
-        "id": "5",
-        "user_id": "1",
-        "activity_id": "3",
-        "completed": "Yes",
-        "rating": "5",
-        "comment": "I felt great through this first session",
-        "date": "2020/03/05"
-    }
-  ]
+    "users": [
+        {
+            "id": "1",
+            "name": "Teguh Nguyen"
+        }, {
+            "id": "2",
+            "name": "John Smith"
+        }, {
+            "id": "3",
+            "name": "Sarah Stone"
+        }, {
+            "id": "4",
+            "name": "Peter Jones"
+        }, {
+            "id": "5",
+            "name": "Lily Potter"
+        }
+    ],
+    "activities": [
+        {
+            "id": "1",
+            "user_id": "1",
+            "name": "Capstone requirements",
+            "duration": "60",
+            "deep_work": "true",
+            "priority": "2",
+            "due_date": "2020/03/01",
+            "content": "Work on Final Capstone"
+        }, {
+            "id": "2",
+            "user_id": "1",
+            "name": "Capstone User stories",
+            "duration": "90",
+            "deep_work": "true",
+            "priority": "5",
+            "due_date": "2020/03/02",
+            "content": "Work on capstone final"
+        }, {
+            "id": "3",
+            "user_id": "1",
+            "name": "Capstone Wireframing your app",
+            "duration": "180",
+            "deep_work": "true",
+            "priority": "5",
+            "due_date": "2020/03/04",
+            "content": "Work on capstone final"
+        }, {
+            "id": "4",
+            "user_id": "1",
+            "name": "Capstone Build your static client",
+            "duration": "180",
+            "deep_work": true,
+            "priority": "5",
+            "due_date": "2020/03/06",
+            "content": "Work on capstone final"
+        }, {
+            "id": "5",
+            "user_id": "1",
+            "name": "Capstone Implement your MVP",
+            "duration": "180",
+            "deep_work": "true",
+            "priority": "5",
+            "due_date": "2020/03/10",
+            "content": "Work on capstone final"
+        }, {
+            "id": "5",
+            "user_id": "1",
+            "name": "Capstone Implement your MVP",
+            "duration": "180",
+            "deep_work": "true",
+            "priority": "5",
+            "due_date": "2020/03/10",
+            "content": "Work on capstone final"
+        }, {
+            "id": "5",
+            "user_id": "1",
+            "name": "Capstone Implement your MVP",
+            "duration": "180",
+            "deep_work": "true",
+            "priority": "5",
+            "due_date": "2020/03/10",
+            "content": "Work on capstone final"
+        }
+    ],
+    "reflection": [
+        {
+            "id": "1",
+            "user_id": "1",
+            "activity_id": "1",
+            "completed": "Yes",
+            "rating": "5",
+            "comment": "I felt great through this first session. It was tough.",
+            "date": "2020/03/01"
+        }, {
+            "id": "2",
+            "user_id": "1",
+            "activity_id": "2",
+            "completed": "No",
+            "rating": "2",
+            "comment": "Had so many distractions, will have to adjsut for next time.",
+            "date": "2020/03/02"
+        }, {
+            "id": "3",
+            "user_id": "1",
+            "activity_id": "2",
+            "completed": "Yes",
+            "rating": "2",
+            "comment": "Finsihed the work but it took a lot of time to get through. I got bored.",
+            "date": "2020/03/03"
+        }, {
+            "id": "4",
+            "user_id": "1",
+            "activity_id": "3",
+            "completed": "No",
+            "rating": "4",
+            "comment": "Didn't finish the session because of emergancy. But I managed to get a lot done.",
+            "date": "2020/03/04"
+        }, {
+            "id": "5",
+            "user_id": "1",
+            "activity_id": "3",
+            "completed": "Yes",
+            "rating": "5",
+            "comment": "I felt great through this first session",
+            "date": "2020/03/05"
+        }
+    ]
 }
