@@ -1,80 +1,117 @@
-{"categories": [ 
-      {"id": "1", "name": "Warm-Up"}, 
-      {"id": "2", "name": "Presentation"}, 
-      {"id": "3", "name": "Practice"}, 
-      {"id": "4", "name": "Performance"}, 
-      {"id": "5", "name": "Cool-Down"}
+{"users": [ 
+      {"id": "1", "name": "Teguh Nguyen"}, 
+      {"id": "2", "name": "John Smith"}, 
+      {"id": "3", "name": "Sarah Stone"}, 
+      {"id": "4", "name": "Peter Jones"}, 
+      {"id": "5", "name": "Lily Potter"}
   ],
   "activities" : [      
      {
-      "id": "4",
-      "name": "Role Play",
-      "duration": "5min",
-      "groups": "Pairs",
-      "categoryId": "4",
-      "content": "Have studnets write a role-play and perform it in front of the class. "
-  }, {
       "id": "1",
-      "name": " Kung-Fu Phonics ",
-      "duration": "10 min",
-      "groups": "Whole Class",
-      "categoryId": "1",
-      "content": " Prepare a list of minimal-pairs phonics. \n\rHave the students stand up. \n\r Assign a phonic sound to either a punch or a kick. \n\r Say a minimal pair word on your list, students then punch or kick. \n\r If they do the wrong action, they sit down. \n\r play until there is a winner. "
-  }, {
-      "id": "2",
-      "name": "Shadowing",
-      "duration": "15 min",
-      "groups": "Pairs",
-      "categoryId": "2",
-      "content": " Teacher and a volunteer will read prepared role plays for the students to listen to. \n\r Disccuss the role plays, and then have the students shadow after you and the volunteer."
-  }, {
-      "id": "3",
-      "name": "Find Your Match",
-      "duration": "15 min",
-      "groups": "Pairs",
-      "categoryId": "3",
-      "content": " Students are given part of a role play. \n\r They have to walk around the classroom saying their role play to see if they can find their other half. \n\r When they have a match, they perform it for the teacher, and are given a new half of a role play.\n\r  How many role plays can they finish?"
-  }, {
-      "id": "5",
-      "name": " Criss Cross ",
-      "duration": "15 min",
-      "groups": "Whole Class",
-      "categoryId": "5",
-      "content": "'Students stand up. \n\r Teachers ask questions based on the grammar point learnt. If a student answers the question. they get to choose how to sit down."
-  }, {
-      "id": "6",
-      "name": "The Who Am I? Guessing Game",
-      "duration": "15 min",
-      "groups": "Whole Class",
-      "categoryId": "3",
-      "content": "Type up a list of between 15-20 names of current famous people, e.g. Madonna, Tom Cruise, etc. and cut into slips of paper approx. 1 1/2 by 3 and Pin a slip of paper onto each students back. Students circulate and ask each other Yes or No questions about the persons name pinned to their backs until they guess who they are. Elizabeth, Vancouver, BC, Canada"
-  }, {
-      "id": "7",
-      "name": "60 Second Quiz",
-      "duration": "5 min",
-      "groups": "Pairs",
-      "categoryId": "1",
-      "content": "Students write 25 words and their translations on a piece of paper, give them time to do this When time is up, one student will read a their native language word to the students and the give them the work in English. The student that give the translation to the most words in 60 seconds is the winner give them the work in English. The student that give the translation to the most words in 60 seconds is the winner give them the work in English. The student that give the translation to the most words in 60 seconds is the winner."
-  }, {
-      "id": "8",
-      "name":"Karuta",
-      "duration": "15 min",
-      "groups": "Groups",
-      "categoryId": "3",
-      "content": "have a lst of cards with words that sudents are learning. Students place it face up between them in the groups. The teacher reads the words, and the student have to find that word and slap it. the first student to slap the card is the gets the card. the winner is the student with the most cards at the end of the day."
-  }, {
-      "id": "9",
-      "name": "ALTs Day",
-      "duration": "10 min",
-      "groups": "Single",
-      "categoryId": "3",
-      "content": " Write an essay about your life using known grammar forms and/or target grammar forms. If you use unfamiliar vocabulary, provide Japanese translations (ask your JTE for help). Choose 5-10 words and change them into blanks.  The ALT reads his/her essay 2-3 times. The students listen and try to fill in the blanks by catching the sound. After the ALT has finished reading, the JTE reads the essay one more time, pausing before each blank. The class says the correct answer in unison. The ALT writes the correct spelling on the board."
-  },{
-      "id": "10",
-      "name": "3 Cats",
-      "duration": "10 min",
-      "groups": "Single",
-      "categoryId": "4",
-      "content": "Distribute the word search worksheet and explain that 5 minutes (or any set time period) will be given for students to find as many of each word as possible. When those 5 minutes have elapsed, students should be instructed to tally how many of each word they were able to find in the tally box on the right side of the sheet. Instruct the students how to construct the sentence: I have 3 cats. Examples are listed immediately below the word search on the sheet. Students write 7 sentences, reporting how many of each word they found. The sentence format and space is provided at the bottom of the worksheet. Have students demonstrate part of their work by asking students individually, How many dogs/cats/etc do you have? To which the student will respond with the sentence they constructed."
-  }]
+      "user_id": "1",
+      "name": "Capstone requirements",
+      "duration": "60",
+      "deep_work": true,
+      "priority": "2",
+      "due_date": "2020/03/01",
+      "content": "Work on Final Capstone"
+  },
+  {
+    "id": "2",
+    "user_id": "1",
+    "name": "Capstone User stories",
+    "duration": "90",
+    "deep_work": true,
+    "priority": "5",
+    "due_date": "2020/03/02",
+    "content": "Work on capstone final"
+},
+{
+    "id": "3",
+    "user_id": "1",
+    "name": "Capstone Wireframing your app",
+    "duration": "180",
+    "deep_work": true,
+    "priority": "5",
+    "due_date": "2020/03/04",
+    "content": "Work on capstone final"
+},
+{
+    "id": "4",
+    "user_id": "1",
+    "name": "Capstone Build your static client",
+    "duration": "180",
+    "deep_work": true,
+    "priority": "5",
+    "due_date": "2020/03/06",
+    "content": "Work on capstone final"
+},
+{
+    "id": "5",
+    "user_id": "1",
+    "name": "Capstone Implement your MVP",
+    "duration": "180",
+    "deep_work": true,
+    "priority": "5",
+    "due_date": "2020/03/10",
+    "content": "Work on capstone final"
+},
+{
+    "id": "5",
+    "user_id": "1",
+    "name": "Capstone Implement your MVP",
+    "duration": "180",
+    "deep_work": true,
+    "priority": "5",
+    "due_date": "2020/03/10",
+    "content": "Work on capstone final"
+},
+],
+  "reflection" :[
+      {
+          "id": "1",
+          "user_id": "1",
+          "activity_id": "1",
+          "completed": "Yes",
+          "rating": "5",
+          "comment": "I felt great through this first session. It was tough.",
+          "date": "2020/03/01"
+      },
+      {
+        "id": "2",
+        "user_id": "1",
+        "activity_id": "2",
+        "completed": "No",
+        "rating": "2",
+        "comment": "Had so many distractions, will have to adjsut for next time.",
+        "date": "2020/03/02"
+    },
+    {
+        "id": "3",
+        "user_id": "1",
+        "activity_id": "2",
+        "completed": "Yes",
+        "rating": "2",
+        "comment": "Finsihed the work but it took a lot of time to get through. I got bored.",
+        "date": "2020/03/03"
+    },
+    {
+        "id": "4",
+        "user_id": "1",
+        "activity_id": "3",
+        "completed": "No",
+        "rating": "4",
+        "comment": "Didn't finish the session because of emergancy. But I managed to get a lot done.",
+        "date": "2020/03/04"
+    },
+    {
+        "id": "5",
+        "user_id": "1",
+        "activity_id": "3",
+        "completed": "Yes",
+        "rating": "5",
+        "comment": "I felt great through this first session",
+        "date": "2020/03/05"
+    },
+  ]
 }
