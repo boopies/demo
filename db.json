@@ -39,7 +39,7 @@
         }, {
             "id": "3",
             "user_id": "1",
-            "name": "Capstone Wireframing your app",
+            "name": "Capstone Wire-framing your app",
             "duration": "180",
             "deep_work": "true",
             "priority": "5",
@@ -98,7 +98,7 @@
             "activity_id": "2",
             "completed": "No",
             "rating": "2",
-            "comment": "Had so many distractions, will have to adjsut for next time.",
+            "comment": "Had so many distractions, will have to adjust for next time.",
             "date": "2020/03/02"
         }, {
             "id": "3",
@@ -114,7 +114,7 @@
             "activity_id": "3",
             "completed": "No",
             "rating": "4",
-            "comment": "Didn't finish the session because of emergancy. But I managed to get a lot done.",
+            "comment": "Did not finish the session because of emergency. But I managed to get a lot done.",
             "date": "2020/03/04"
         }, {
             "id": "5",
