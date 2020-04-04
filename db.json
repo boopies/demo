@@ -17,71 +17,70 @@
             "name": "Lily Potter"
         }
     ],
-    "activities": [
-        {
-            "id": "1",
+    "todos": [
+        {"id": "todo1",
             "user_id": "1",
             "name": "Capstone requirements",
             "duration": "60",
             "deep_work": "true",
             "priority": "2",
             "due_date": "2020/03/01",
-            "content": "Work on Final Capstone"
-        }, {
-            "id": "2",
+            "content": "Work on Final Capstone",
+            "size": "four_block"}, 
+        {"id": "todo2",
             "user_id": "1",
             "name": "Capstone User stories",
             "duration": "90",
             "deep_work": "true",
             "priority": "5",
             "due_date": "2020/03/02",
-            "content": "Work on capstone final"
-        }, {
-            "id": "3",
+            "content": "Work on capstone final",
+            "size": "eight_block"},  
+        {"id": "todo3",
             "user_id": "1",
             "name": "Capstone Wire-framing your app",
             "duration": "180",
             "deep_work": "true",
             "priority": "5",
             "due_date": "2020/03/04",
-            "content": "Work on capstone final"
-        }, {
-            "id": "4",
+            "content": "Work on capstone final",
+            "size": "twelve_block"}, 
+        {"id": "todo4",
             "user_id": "1",
             "name": "Capstone Build your static client",
             "duration": "180",
-            "deep_work": true,
+            "deep_work": "true",
             "priority": "5",
             "due_date": "2020/03/06",
-            "content": "Work on capstone final"
-        }, {
-            "id": "5",
+            "content": "Work on capstone final",
+            "size": "twelve_block"}, 
+        {"id": "todo5",
             "user_id": "1",
             "name": "Capstone Implement your MVP",
             "duration": "180",
             "deep_work": "true",
             "priority": "5",
             "due_date": "2020/03/10",
-            "content": "Work on capstone final"
-        }, {
-            "id": "6",
+            "content": "Work on capstone final",
+            "size": "four_block"}, 
+        {"id": "todo6",
             "user_id": "1",
             "name": "E-mail Tom",
             "duration": "15",
             "deep_work": "false",
             "priority": "2",
             "due_date": "2020/03/1",
-            "content": "Email Tom about the new study"
-        }, {
-            "id": "7",
+            "content": "Email Tom about the new study",
+            "size": "one_block"}, 
+        {"id": "todo7",
             "user_id": "1",
             "name": "Buy Toiletpaper",
             "duration": "30",
             "deep_work": "flase",
             "priority": "1",
             "due_date": "2020/03/10",
-            "content": "Go to the Drug Store and get toilet paper"
-        }
+            "content": "Go to the Drug Store and get toilet paper",
+            "size": "two_block"},
     ],
     "reflection": [
         {
